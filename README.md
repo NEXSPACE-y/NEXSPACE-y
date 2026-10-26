@@ -4,7 +4,7 @@
 I design systems and direct AI models to build them — requirements, architecture, verification and audit are my job; the code is written by AI under that control.
 
 - 🏢 Founder and sole developer of [NEXSPACE](https://www.nexspace.jp)
-- 📐 Surveyor apprentice since September 2026 (field work on remote islands) — my field experience feeds directly into the tools I build
+- 📐 Surveyor apprentice since September 2026 — my field experience feeds directly into the tools I build
 - 📄 2 papers on Zenodo (see [Papers](#papers))
 - 🛠️ Rust · Tauri · TypeScript · Python · Swift · Flutter · C++
 - 📫 contact@nexspace.jp · X [@NEXSPACE_CICAS](https://x.com/NEXSPACE_CICAS)
@@ -38,8 +38,6 @@ Source code for commercial products is kept private.
 
 ## Papers
 
-*Published as **Shigeyuki Matsunaga** — the former reading of the same name (成幸). The official reading changed to Yoshiki in August 2026.*
-
 - [360-DQHM: A Phase-Topology-Based Memory Architecture Achieving O(1) Search Complexity at Billion-Entry Scale](https://zenodo.org/records/18922676) (preprint, March 2026)
 - [Integrated Immune System Architecture: A Physically Grounded Dynamic Defense Model for Autonomous AI Control](https://zenodo.org/records/18815443) (preprint, February 2026)
 
@@ -59,8 +57,8 @@ Source code for commercial products is kept private.
 要件定義・設計・検証・監査は自分で行い、コードはAIに書かせる開発スタイルです。
 
 - [NEXSPACE](https://www.nexspace.jp) 創業者・唯一の開発者
-- 2026年9月から測量見習い（離島の現場）。現場で見た課題をそのまま道具にしています
-- Zenodoに論文2本（著者名は旧読みの「しげゆき」で掲載）：[360-DQHM（2026年3月）](https://zenodo.org/records/18922676)、[統合免疫システムアーキテクチャ（2026年2月）](https://zenodo.org/records/18815443)
+- 2026年9月から測量見習い。現場で見た課題をそのまま道具にしています
+- Zenodoに論文2本：[360-DQHM（2026年3月）](https://zenodo.org/records/18922676)、[統合免疫システムアーキテクチャ（2026年2月）](https://zenodo.org/records/18815443)
 - 連絡先：contact@nexspace.jp
 
 ### 作り方
