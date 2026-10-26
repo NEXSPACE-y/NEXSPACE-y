@@ -5,7 +5,7 @@ I design systems and direct AI models to build them — requirements, architectu
 
 - 🏢 Founder and sole developer of [NEXSPACE](https://www.nexspace.jp)
 - 📐 Surveyor apprentice since September 2026 (field work on remote islands) — my field experience feeds directly into the tools I build
-- 📄 2 papers on Zenodo ([18922676](https://zenodo.org/records/18922676), [18815443](https://zenodo.org/records/18815443))
+- 📄 2 papers on Zenodo (see [Papers](#papers))
 - 🛠️ Rust · Tauri · TypeScript · Python · Swift · Flutter · C++
 - 📫 contact@nexspace.jp · X [@NEXSPACE_CICAS](https://x.com/NEXSPACE_CICAS)
 
@@ -33,8 +33,13 @@ Source code for commercial products is kept private.
 
 ## Research
 
-- **NeutronGate** — a fully local Japanese AI written in Rust, running on CPU only. Core: *360-DQHM*, a holographic associative memory (Vector Symbolic Architecture) in a 360-dimensional complex vector space with phase-resonance similarity. → [overview](https://github.com/NEXSPACE-y/NeutronGate_Auditor)
+- **NeutronGate** — a fully local Japanese AI written in Rust, running on CPU only. Core: *360-DQHM* (360-Dimensional Dynamic Quanta Hierarchical Memory), a holographic associative memory (Vector Symbolic Architecture) in a 360-dimensional complex vector space with phase-resonance similarity. → [overview](https://github.com/NEXSPACE-y/NeutronGate_Auditor)
 - **ALSR PoC** — measures how far model inference can go beyond VRAM capacity by streaming weight chunks from RAM. Built to *find where it fails*, not to show off.
+
+## Papers
+
+- [360-DQHM: A Phase-Topology-Based Memory Architecture Achieving O(1) Search Complexity at Billion-Entry Scale](https://zenodo.org/records/18922676) (preprint, March 2026)
+- [Integrated Immune System Architecture: A Physically Grounded Dynamic Defense Model for Autonomous AI Control](https://zenodo.org/records/18815443) (preprint, February 2026)
 
 ## Field tools (surveying)
 
@@ -53,7 +58,7 @@ Source code for commercial products is kept private.
 
 - [NEXSPACE](https://www.nexspace.jp) 創業者・唯一の開発者
 - 2026年9月から測量見習い（離島の現場）。現場で見た課題をそのまま道具にしています
-- Zenodoに論文2本
+- Zenodoに論文2本：[360-DQHM（2026年3月）](https://zenodo.org/records/18922676)、[統合免疫システムアーキテクチャ（2026年2月）](https://zenodo.org/records/18815443)
 - 連絡先：contact@nexspace.jp
 
 ### 作り方
