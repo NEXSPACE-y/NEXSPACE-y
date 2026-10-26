@@ -46,7 +46,7 @@ Source code for commercial products is kept private.
 <details>
 <summary>🇯🇵 日本語</summary>
 
-## 松永 義樹 — NEXSPACE
+## 松永 成幸 — NEXSPACE
 
 **鹿児島の個人AI開発者・測量士見習い。**
 要件定義・設計・検証・監査は自分で行い、コードはAIに書かせる開発スタイルです。
